@@ -1,3 +1,5 @@
-# med_vet
+# MedVet - Sistema de Gestão Veterinária
 
-A new Flutter project.
+
+## Tecnologias
+- Flutter (Dart)
